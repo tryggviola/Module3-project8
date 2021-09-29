@@ -2,6 +2,8 @@
 
 # Module3 / Project 8 / UI Redesign
 
+# Please use Pizzaking 2 Figma file to view my project
+
 ## Project Brief 
 
 Recreate a website with these in mind: 
